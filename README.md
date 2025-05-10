@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farweesfarsan&label=Profile%20views&color=0e75b6&style=flat" alt="farweesfarsan" /> </p>
 
-- 🔭 I’m currently working on **TetherX(Doller exchange and Digitel wallet)**
+- 🔭 I’m currently working on **MFD(Milky Fresh Dairies) an E-Commerce web application for a Dairy shop** 
 
 - 🌱 I’m currently learning **React js, Next js**
 
